@@ -8,9 +8,8 @@ Use case to use git remote add instead of git clone is when you have to handle m
 
 ## Commands
 
-### Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+### In order to push someting to a remote repository using "git remote add"
 
-In order to push someting to a remote repository using "git remote add"
 ```bash
 git init
 git remote add origin git@github.com:rahul27shinde/Dummy.git
